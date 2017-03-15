@@ -1,0 +1,2 @@
+set fish_key_bindings fish_default_key_bindings
+export fish_key_bindings
